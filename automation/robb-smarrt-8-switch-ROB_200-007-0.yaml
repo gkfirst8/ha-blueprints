@@ -12,7 +12,6 @@ blueprint:
       description: Switch remote to use
       selector:
         device:
-          integration: zha
           model: "ROB_200-007-0"
           
     on_button_1_short:
